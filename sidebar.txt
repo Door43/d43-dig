@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dig:home|Door43 (dig)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dig|d43-dig repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dig/archive/master.zip|d43-dig.zip]]
+
+**Recent Changes**
+{{changes>ns = dig}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dig|Ethnologue data]]
+
